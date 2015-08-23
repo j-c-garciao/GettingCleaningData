@@ -1,5 +1,7 @@
-# CleaningData
-# Steps
+## Developed by JC García-Ojeda (2015)
+## More information about this script can be found in the README.md file
+
+
 
 run_analysis <- function(){
 
