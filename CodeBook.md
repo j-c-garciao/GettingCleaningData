@@ -26,6 +26,9 @@ Variable `Feature` takes values `timeBodyAccMean()-X, timeBodyAccMean()-Y, timeB
 `frecuencyBodyAccJerkStd()-X, frecuencyBodyAccJerkStd()-Y, frecuencyBodyAccJerkStd()-Z,` `frecuencyBodyGyroMean()-X, frecuencyBodyGyroMean()-Y, frecuencyBodyGyroMean()-Z,` `frecuencyBodyGyrokStd()-X, frecuencyBodyGyroStd()-Y, frecuencyBodyGyroStd()-Z,` `frecuencyBodyAccMagMean(), frecuencyBodyAccMagStd(), frecuencyBodyAccJerkMagMean(),` `frecuencyBodyAccJerkMagStd(), frecuencyBodyGyroMagMean(),frecuencyBodyGyroMagStd(),`
 `frecuencyBodyGyroJerkMagMean(), frecuencyBodyGyroJerkMagStd()`; each represententing specific 3-axial linear acceleration and 3-axial angular velocity.
 
+Variable `mean(value)` takes values of the average of each variable for each activity and each subject.
+
+
 
 [id]: http://r.789695.n4.nabble.com/variable-labels-to-accompany-data-frame-td813131.html "link1"
 [id2]: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones "link2"
