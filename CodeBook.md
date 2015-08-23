@@ -1,7 +1,3 @@
----
-title: "CodeBook  for the Final Project of the course **Getting and Cleaning Data**"
-output: html_document
----
 This file describes the variables, the data, and any transformations or work I performed to clean up the data from the **Human Activity Recognition Using Smartphones Data Set ** study (refer to [link] [id2], the dataset can be download from [link][id3])
 
 
@@ -16,7 +12,7 @@ Feature|   factor | integer
 mean(value) |  numeric  |  double
 
 
-The information shown above was elaborated by applying the script introduced in the following [link] [id]. In what follows, the data associated with each of the variable is described.
+The information shown above was elaborated by applying the script introduced in the following [link] [id] to the tidy data generate by the `run_analysis.R`. In what follows, the data associated with each of the variable is described.
 
 
 Variable `Subject` takes values `1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30`; 
