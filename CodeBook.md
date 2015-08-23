@@ -26,7 +26,7 @@ Variable `Feature` takes values `timeBodyAccMean()-X, timeBodyAccMean()-Y, timeB
 `frecuencyBodyAccJerkStd()-X, frecuencyBodyAccJerkStd()-Y, frecuencyBodyAccJerkStd()-Z,` `frecuencyBodyGyroMean()-X, frecuencyBodyGyroMean()-Y, frecuencyBodyGyroMean()-Z,` `frecuencyBodyGyrokStd()-X, frecuencyBodyGyroStd()-Y, frecuencyBodyGyroStd()-Z,` `frecuencyBodyAccMagMean(), frecuencyBodyAccMagStd(), frecuencyBodyAccJerkMagMean(),` `frecuencyBodyAccJerkMagStd(), frecuencyBodyGyroMagMean(),frecuencyBodyGyroMagStd(),`
 `frecuencyBodyGyroJerkMagMean(), frecuencyBodyGyroJerkMagStd()`; each represententing specific 3-axial linear acceleration and 3-axial angular velocity.
 
-Variable `mean(value)` takes values of the average of each variable for each activity and each subject.
+Variable `mean(value)` takes values on the average of each feature for each activity and each subject.
 
 
 
