@@ -1,8 +1,3 @@
----
-title: "This is a readme file. This file describes step by step the computation of the `run_analysis.R` file"
-output: html_document
----
-
 Computing Steps of the **run_analysis.R**
 
 1.- Step **Load Libraries**
